@@ -9,4 +9,4 @@ Es la primera version, la cual solo es capaz de:
 - generar 2 ficheros csv con el fin de guardar 'ingresos' y 'gastos'
 - una interfaz de usuario (GUI) la con la cual ingresar valores a estas bases de datos creadas en los csv
 
-/no dudes en mandar sugerencias!
+No dudes en mandar sugerencias!

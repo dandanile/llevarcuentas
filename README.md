@@ -8,4 +8,5 @@ Es la primera version, la cual solo es capaz de:
 - generar un usuario, cual se almacenara en la carpeta 'files' creada por el mismo programa
 - generar 2 ficheros csv con el fin de guardar 'ingresos' y 'gastos'
 - una interfaz de usuario (GUI) la con la cual ingresar valores a estas bases de datos creadas en los csv
-* no dudes en mandar sugerencias!
+
+/no dudes en mandar sugerencias!
